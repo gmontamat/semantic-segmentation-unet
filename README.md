@@ -1,5 +1,18 @@
 # semantic-segmentation-unet
+
 Perform semantic segmentation with UNet networks
+
+## Installation
+
+
+## Usage
+
+
+### Generating a train set
+
+The notebook `train-data-generator.ipynb` serves as an example on how to generate a train set for a
+particular object based on VOC2012 and PASCAL-Part datasets.
+
 
 ## References
 
