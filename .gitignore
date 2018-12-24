@@ -106,3 +106,4 @@ venv.bak/
 # Custom ignored files
 .idea/
 data/
+*.pkl
